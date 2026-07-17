@@ -39,7 +39,9 @@ npm start
 ```
 
 ## 📸 Screenshots
-(Add screenshots here)
+<img width="921" height="467" alt="image" src="https://github.com/user-attachments/assets/35a2cd55-0638-485d-86ee-5528fd7df51c" />
+
+
 
 ## 📈 Future Improvements
 - Add authentication
